@@ -1,4 +1,4 @@
-# Numip - Numbers in Picture
+# #Numip - Numbers in Picture
 
 A minimalist, distraction-free counter that floats over your work.  
 Built to track exercises while keeping your study materials visible with Picture‑in‑Picture.
