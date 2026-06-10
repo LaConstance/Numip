@@ -13,7 +13,7 @@ Built to track exercises while keeping your study materials visible with Picture
 - **Reset button** – One click to start fresh.
 - **Persistent count** – Automatically saved in your browser. Never lose your progress.
 - **Responsive design** – Uses `vmin` units; looks great on desktop and mobile.
-- **Zero dependencies** – Pure HTML, CSS, and vanilla JavaScript.
+- **Zero dependencies** – Pure HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
