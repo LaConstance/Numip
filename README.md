@@ -35,4 +35,4 @@ Try it online: [Numip](https://laconstance.github.io/Numip/)
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
