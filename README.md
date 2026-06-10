@@ -3,7 +3,7 @@
 A minimalist, distraction-free counter that floats over your work.  
 Built to track exercises while keeping your study materials visible with Picture‑in‑Picture.
 
-<img width="960" height="467" alt="image" src="https://github.com/user-attachments/assets/14213af1-7a02-49dd-a961-5afb993d660c" />
+<img width="960" height="470" alt="image" src="https://github.com/user-attachments/assets/741d27b7-4461-462b-817b-fbf02120a240" />
 
 ## ✨ Features
 
