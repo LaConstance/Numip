@@ -109,9 +109,11 @@ body {
     display: flex;
     flex-wrap: wrap;         
     align-items: center;
+    align-content: center;
     justify-content: center;
     gap: 4vmin;
     user-select: none;
+    width: 100%;
 }
 
 #counter-display {
@@ -164,4 +166,35 @@ body {
 
 .counter-btn:active {
     transform: scale(0.95);
+}
+
+
+footer {
+    position: absolute;
+    bottom: 1vmin;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vmin 2vmin;
+    font-size: 3vmin;
+    color: var(--color);
+    opacity: 0.7;
+    user-select: none;
+    text-align: center;
+}
+
+#app-footer:hover {
+    opacity: 1;
+}
+
+.footer-text {
+    font-family: "Consolas", monospace;
+    letter-spacing: 0.05em;
+}
+
+.footer-c {
+    margin: 0 1vmin;
+    opacity: 0.5;
 }
