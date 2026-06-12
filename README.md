@@ -19,7 +19,7 @@ Built to track exercises while keeping your study materials visible with Picture
 
 Try it online: [Numip](https://laconstance.github.io/Numip/)
 
-## 📦 Usage
+## ℹ️ Usage
 
 1. Click **+** or **−** to adjust the counter.
 2. Double‑click the number to type an exact value.
